@@ -7,4 +7,4 @@
 [**homework2-3**](https://seongwooseok1004.github.io/homework3.html)
 [**homework2-4**](https://seongwooseok1004.github.io/homework4.html)
 
-[[**differ style**]](https://github.com/seongwooseok1004/seongwooseok1004.github.io/blob/main/same%20page%20differ%20style.html)
+[[**differ style**]](https://seongwooseok1004.github.io/same%20page%20differ%20style.html)
