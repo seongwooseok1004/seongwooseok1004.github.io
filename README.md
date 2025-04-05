@@ -8,9 +8,9 @@
 [**homework2-4**](https://seongwooseok1004.github.io/homework4.html)
 [**homework3-1-1**](https://seongwooseok1004.github.io/homework3-1-1.jpg)
 [**homework3-1-2**](https://seongwooseok1004.github.io/homework3-1-2.jpg)
-[**homework3-2**]
-[**homework3-3**]
-[**homework3-4**]
-[**homework3-5**]
+[**homework3-2**](https://seongwooseok1004.github.io/homework3-2.jpg)
+[**homework3-3**](https://seongwooseok1004.github.io/homework3-3.jpg)
+[**homework3-4**](https://seongwooseok1004.github.io/homework3-4.jpg)
+[**homework3-5**](https://seongwooseok1004.github.io/homework3-5.jpg)
 
 [[**same page differ style**]](https://seongwooseok1004.github.io/same%20page%20differ%20style.html)
